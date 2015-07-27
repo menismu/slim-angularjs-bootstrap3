@@ -1,0 +1,24 @@
+<div>
+	<div class="table-responsive">
+   		<table class="table table-striped">
+        	<thead>
+            	<tr>
+					<th>Nombre</th>
+                  	<th>Direcci&oacute;n</th>
+                  	<th>C&oacute;digo postal</th>
+                  	<th>N&uacute;mero de residentes</th>
+                  	<th></th>
+                </tr>
+            </thead>
+            <tbody>
+            	<tr ng-repeat="item in list">
+                	<td>{{item.name}}</td>
+                 	<td>{{item.address}}</td>
+                  	<td>{{item.postcode}}</td>
+                  	<td>{{item.numberOfResidents}}</td>
+                  	<td><a href="" ng-click="select(item)">Ver detalles...</a></td>
+                </tr>
+        	</tbody>
+		</table>
+	</div>
+</div>
