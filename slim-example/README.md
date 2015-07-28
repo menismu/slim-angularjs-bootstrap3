@@ -9,8 +9,10 @@ Este repositorio contiene la implementación de un ejemplo básico de SPA (Singl
 
 Tan sencillo como descargar el código o hacer un fork del repository y preparar tu entorno de PHP y Apache. Luego simplemente necesitas jugar con el interfaz y leer el código tanto en la parte de PHP como en la parte de javascript para ver cómo está todo conectado y funciona.
 
-### 3. Why Spanish?
+### 3. Demo
 
-The public I´ve dedicated this example is one friend I want to show how the potentia of PHP and moder javascript libraries to create moder SPA applications, and to show the total scope Spanish language helps as is his mother tongue language.
+He desplegado en Heroku una demo que se puede ver en la siguiente [dirección](http://quiet-beyond-2258.herokuapp.com/)
 
-I´m happy to share this example totally in english if someone is interested.
+### 4. Why Spanish?
+
+This development is dedicated to a group of people who Spanish is their mother tongue language, I´m happy to share the example in English to everyone whoe wants to know more.
